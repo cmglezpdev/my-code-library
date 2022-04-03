@@ -25,3 +25,4 @@ Competitive Programming Online Judges Exercise Solutions
 - Suma de Pesos: Tree
 - DistTree: Tree
 - Contando Prefijos Palindromicos: Hashing
+- Multiplicacion en rango: SegmentTree + Lazy
