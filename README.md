@@ -9,6 +9,7 @@ Competitive Programming Online Judges Exercise Solutions
 - D Powerful Array: Mo's Algorithm
 - D Almost Identity Permutations: Combinatorics
 - E Test: Hashing
+- C Roads in Berland: Floyd-Warshall
 
 ### DMOJ
 
