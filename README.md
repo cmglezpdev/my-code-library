@@ -8,6 +8,7 @@ Competitive Programming Online Judges Exercise Solutions
 
 - D Powerful Array: Mo's Algorithm
 - D Almost Identity Permutations: Combinatorics
+- E Test: Hashing
 
 ### DMOJ
 
