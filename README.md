@@ -17,6 +17,7 @@ Competitive Programming Online Judges Exercise Solutions
 - Escritura: Trie
 - Irrigando los Campos: Kruskal
 - Transferencia electronica: Disjkstra
+- En Hombros: Disjktra
 - Estructuras Celulares: LCA
 - Feria Tecnologica: Floyd Warshall
 - Sherlock and Watson: Mo's Algorithm + ABI
