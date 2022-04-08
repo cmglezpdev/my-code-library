@@ -10,6 +10,7 @@ Competitive Programming Online Judges Exercise Solutions
 - D Almost Identity Permutations: Combinatorics
 - E Test: Hashing
 - C Roads in Berland: Floyd-Warshall
+- C DZY Loves Fibonacci Numbers: ST + Lazy + Fibonacci(Interesting)
 
 ### DMOJ
 
