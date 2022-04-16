@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# My ignores
+/WA or INCOMPLETE
+/Today
