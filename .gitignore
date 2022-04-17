@@ -34,3 +34,6 @@
 # My ignores
 /WA or INCOMPLETE
 /Today
+/.catalyst
+/.cph
+/.temp
