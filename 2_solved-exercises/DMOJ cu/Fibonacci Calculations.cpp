@@ -36,7 +36,7 @@ matrix kpow(matrix x, int n){
     matrix sol(1);
     while(n){
         if(n&1) sol = sol * x;
-        x = x * x;
+        x = x * x;  
         n /= 2;
     }
     return sol;
